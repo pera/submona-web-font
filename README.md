@@ -15,6 +15,6 @@ Add a new `@font-face` at-rule for *submona* into your CSS, and then append the 
 }
 
 .sjis {
-  font-family: IPAMonaPGothic, 'IPA モナー Pゴシック', Monapo, Mona, 'MS Pgothic', 'MS Pゴシック', submona;
+  font-family: IPAMonaPGothic, 'IPA モナー Pゴシック', Monapo, Mona, submona;
 }
 ```
